@@ -2,12 +2,13 @@
 
 <a name= 'top'></a>
 
-///Level 2
+* [Description](#description)
+* [Implement Model](#model)
+* [Controllers](#controllers)
+* [PostReason](#post)
+* [View Hierarchy](#view)
+* [Black Diamonds](#diamond)
 
-* [Description] (#description)
-* [Implement Model] (#model)
-* [Controllers] (#controllers)
-* [PostReason] (#post)
 
 ## <a name='description'></a> Description
 Students will build an app to showcase why they choose to learn iOS and what cohort they’re in. The database is shared across all DevMountain iOS developers. This app showcases how to post data to a central database. Students will practice asynchronous network calls, working with JSON data, closures, and intermediate tableviews.
