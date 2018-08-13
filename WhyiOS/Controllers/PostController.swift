@@ -95,4 +95,9 @@ class PostController {
             return
         }
     }
+    
+    func changeTheWorld(){
+        //Amazing code goes in here
+    }
+    
 }
